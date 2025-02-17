@@ -1,5 +1,4 @@
 # htmlclass.github.io
-<!DOCTYPE html>
 <html>
     <body>
         <title>Web Site Development - Html - Beginning - Saddleback College</title>
